@@ -13,7 +13,8 @@
 ---
 # IDE, Tool
   - `IntelliJ`
-  - `Notion` <https://typhoon-psychology-bec.notion.site/c426ee1a28204d2ea0ccb0d7b72fe844?pvs=4>
+  - `Notion`
+    노션 자기소개 페이지- <https://typhoon-psychology-bec.notion.site/c426ee1a28204d2ea0ccb0d7b72fe844?pvs=4>
   - `Discord`
 ---
 # Activities
