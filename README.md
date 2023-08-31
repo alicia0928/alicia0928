@@ -6,17 +6,17 @@
   - 📫 맡은 일에는 책임감을 가지며 기간 안에 완성할 수 있도록 합니다.
 </Introduce>
 
-<Skills-Language>
+<Language>
   - C++
   - Java
   - Kotlin
   - Python
-  </Skills-Language>
+  </Language>
 
-<Skills-IDE, Tool>
+<IDE, Tool>
   - IntelliJ
   - Notion, Discord
-</Skills-IDE, Tool>
+</IDE, Tool>
 
 <Activities>
   - Lg Aimers 2기 수료
