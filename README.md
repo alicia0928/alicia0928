@@ -21,6 +21,14 @@
   - Lg Aimers 2기 수료
   - UMC(University MakeUs Challenge) 4기
   - UMC 4기 프로젝트 링크 <https://github.com/posestion>
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/5f6a05f7-7052-475e-aa6d-3909bb1cca29" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/8cc6de35-2b7a-4a11-9bbe-d4b94e4e2a22" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/6bdc6e7f-5031-401b-9064-48092b3c2975" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/9591e9c5-0b00-426d-83ea-8435b320b4df" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/fdce0e10-76b5-4517-b3f3-b1198ae48b5a" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/10ee56c0-7405-41a7-9cb7-4e7da3798efe" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/33f8894d-b78a-4285-8b29-67944f730948" width="30%" height="30%">
+
 ---
 # Awards
   - 성신여대 스타트업 메이크업 캠프 **우수상**
