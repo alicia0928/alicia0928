@@ -18,6 +18,7 @@
 # Activities
   - Lg Aimers 2기 수료
   - UMC(University MakeUs Challenge) 4기
+  - UMC 4기 프로젝트 링크 <https://github.com/posestion>
 ---
 # Awards
   - 성신여대 스타트업 메이크업 캠프 우수상
