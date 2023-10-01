@@ -19,6 +19,7 @@
 ---
 # Activities
   - Lg Aimers 2기 수료
+  - Lg Aimers 3기 수료
   - UMC(University MakeUs Challenge) 4기
   - UMC 4기 프로젝트 링크 <https://github.com/posestion>
 <img src = "https://github.com/alicia0928/alicia0928/assets/138270924/5f6a05f7-7052-475e-aa6d-3909bb1cca29" width="30%" height="30%">
