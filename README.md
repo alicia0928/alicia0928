@@ -33,6 +33,7 @@
 <img src = "https://github.com/alicia0928/alicia0928/assets/138270924/32f0e3d1-b36e-4a2a-9102-550ba5e130ae" width="30%" height="30%">
 <img src = "https://github.com/alicia0928/alicia0928/assets/138270924/766dcc88-9dec-4c0c-bbb8-09dfd981e8f7" width="30%" height="30%">
 <img src = "https://github.com/alicia0928/alicia0928/assets/138270924/1fc02457-4a39-4003-9879-55295a5428bd" width="30%" height="30%">
+<img src = "https://github.com/alicia0928/alicia0928/assets/138270924/a191b724-d278-483d-9028-a9a69722c195" width="30%" height="30%">
 
 ---
 # Awards
