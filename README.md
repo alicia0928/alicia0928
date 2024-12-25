@@ -28,6 +28,7 @@
   - Lg Aimers 2기 수료
   - Lg Aimers 3기 수료
   - UMC(University MakeUs Challenge) 4기
+  - UMC(University MakeUs Challenge) 5기
   - UMC 4기 프로젝트 링크 <https://github.com/posestion>
   - 데이터베이스 팀 프로젝트 - 프론트엔드 : <https://github.com/alicia0928/SubWay>  || 백엔드 : <https://github.com/jwendykim/SubWay-Server>
   - UMC 5기 프로젝트 링크 <https://github.com/isa-zip>
