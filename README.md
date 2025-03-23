@@ -46,6 +46,7 @@
   - UMC 5기 데모데이 **3등**
   - 성신여 AI융합학부 IT 경진대회 **우수상**
   - 한국 통신학회 추계학술대회 **장려상**
+  - 깃허브 테스트
 ---
 <!---
 alicia0928/alicia0928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
