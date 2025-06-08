@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falicia0928&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
 # Introduce
   - 👋 안녕하세요, 새로운 것을 배워나가는 초보 개발자 김가연입니다.
   - 👀 매사에 **최선**을 다하며 열정적입니다.
