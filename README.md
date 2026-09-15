@@ -20,7 +20,7 @@
   - `Arduino IDE`
   - `MySql`, `erwin Data Modeler`
   - `Notion`
-    노션 자기소개 페이지- <https://typhoon-psychology-bec.notion.site/c426ee1a28204d2ea0ccb0d7b72fe844?pvs=4>
+    [노션 자기소개 페이지]([https://typhoon-psychology-bec.notion.site/c426ee1a28204d2ea0ccb0d7b72fe844?pvs=4](https://hospitable-washer-e5f.notion.site/3a71b1ee90db80a88464d7b8375f02c0?source=copy_link))
   - `Discord`
 ---
 # Activities
